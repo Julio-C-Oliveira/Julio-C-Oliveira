@@ -13,7 +13,7 @@
 </section>
 
 <section>
-  ! [Por do Sol by Copilot] (https://github.com/Julio-C-Oliveira/Projetos_de_Lazer/blob/52496af1618645cc5216adae73aeecea6bcdb74e/IMGs/pixel_art_por_do_sol_480p_croped.jpeg)
+  ![pixel_art_por_do_sol_480p_croped](https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/2af7342e-0def-45a9-a8cf-fe680bbce223)
 </section>
 <!--
 **Julio-C-Oliveira/Julio-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

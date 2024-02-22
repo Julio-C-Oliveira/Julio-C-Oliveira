@@ -11,10 +11,6 @@
 <section style="display: inline: block">
   <img align="center" alt="Julio-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </section>
-
-<section>
-  ![pixel_art_por_do_sol_480p_croped](https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/2af7342e-0def-45a9-a8cf-fe680bbce223)
-</section>
 <!--
 **Julio-C-Oliveira/Julio-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

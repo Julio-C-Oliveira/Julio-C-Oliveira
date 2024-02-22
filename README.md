@@ -1,5 +1,7 @@
-### Hi there 👋
+### _**Kono Júlio C. Oliveira Niwa Yume ga Aru**_ 👋
 
+- 🔭 Pesquisando atualmente sobre Machine Learning.
+- 🌱 Atualmente aprendendo Python.
 <!--
 **Julio-C-Oliveira/Julio-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

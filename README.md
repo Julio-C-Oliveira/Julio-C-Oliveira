@@ -4,7 +4,7 @@
 
 <section>
   <a href="https://github.com/Julio-C-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-C-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-C-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-C-Oliveira&layout=compact&langs_count=16&theme=dracula"/>
 </section>
 

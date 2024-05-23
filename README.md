@@ -9,6 +9,8 @@
 </section>
 
 <section>
+  <h3>Linguagens</h3>
+  <hr>
   <div style="display: inline: block">
     <img align="center" alt="Julio-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   </div>

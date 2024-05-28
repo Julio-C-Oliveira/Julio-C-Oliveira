@@ -10,20 +10,26 @@
 </section>
 
 ## Linguagens e Habilidades
-![Python Icon](https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/b136e10a-9ff5-40fa-8ed8-bb12514f8ab6) 
+<div style="display: inline: block">
+    <img align="center" alt="Python Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</div>
+  
 ### Python 
 - **Machine Learning:** Pytorch, Flower e Sklearn.
 - **Comunicação entre Dispositivos:** gRPC.
 - **Automatização de Processos:** OS.
-
 - **Ánalise de Dados:** Matplotlib e Pandas.
+
+## Contato
+<div style="display: inline: block">
+  <img align="center" alt="Linkedin Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  <img align="center" alt="Gmail Icon" height="40" width="50" src="https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/c1933c67-7ce8-4ef2-b6d8-1352aff72594"/>
+</div>    
+          
 
 <!--
 <section>
   <h3>Linguagens</h3>
-  <div style="display: inline: block">
-    <img align="center" alt="Julio-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  </div>
 </section>
 
 **Julio-C-Oliveira/Julio-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

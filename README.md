@@ -1,6 +1,6 @@
 # _**Kono Júlio C. Oliveira Niwa Yume ga Aru**_ 👋
 ## Sobre
-- 🏫 Cursando Ciências da Computação na UFPA. 
+- 🏫 Cursando Ciencias da Computação na UFPA. 
 - 🔭 Fazendo Iniciação Cientifica com foco em modelos de IA no GERCOM.
 
 <section>

@@ -10,10 +10,12 @@
 </section>
 
 ## Linguagens e Habilidades
-### Python ![Python Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+![Python Icon](https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/b136e10a-9ff5-40fa-8ed8-bb12514f8ab6) 
+### Python 
 - **Machine Learning:** Pytorch, Flower e Sklearn.
 - **Comunicação entre Dispositivos:** gRPC.
 - **Automatização de Processos:** OS.
+
 - **Ánalise de Dados:** Matplotlib e Pandas.
 
 <!--

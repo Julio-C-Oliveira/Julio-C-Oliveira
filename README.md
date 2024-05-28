@@ -18,7 +18,7 @@
 - **Machine Learning:** Pytorch, Flower e Sklearn.
 - **Comunicação entre Dispositivos:** gRPC.
 - **Automatização de Processos:** OS.
-- **Ánalise de Dados:** Matplotlib e Pandas.
+- **Análise de Dados:** Matplotlib e Pandas.
 
 ## Contato
 <div style="display: inline: block">

@@ -1,6 +1,7 @@
 ## _**Kono Júlio C. Oliveira Niwa Yume ga Aru**_ 👋
 ### Sobre
-- 🔭 Pesquisando atualmente sobre Machine Learning.
+- 🏫 Cursando Ciências da Computação na UFPA. 
+- 🔭 Fazendo Iniciação Ciêntifica com foco em modelos de IA no GERCOM.
 
 <section>
   <a href="https://github.com/Julio-C-Oliveira">
@@ -16,6 +17,8 @@
     <img align="center" alt="Julio-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   </div>
 </section>
+
+
 <!--
 **Julio-C-Oliveira/Julio-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

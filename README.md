@@ -1,5 +1,4 @@
 ## _**Kono Júlio C. Oliveira Niwa Yume ga Aru**_ 👋
-****
 ### Sobre
 - 🔭 Pesquisando atualmente sobre Machine Learning.
 

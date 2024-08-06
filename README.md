@@ -15,20 +15,22 @@
 </div>
   
 ### Projeto de Federated Learning com Decision Trees:
-- **Linguagem Utilizadas:** Python 
+- **Linguagem Utilizadas:** Python.
 - **Comunicação entre os Clientes:** gRPC(google Remote Procedure Call, para a comunicação em si), pickle (conversão dos objetos para binário para viabilizar a transmissão dos dados).
 - **Criação das Decision Trees:** Sklearn.
 - **MultiThread:** Futures da biblioteca Concurrent (serve para executar o código de forma paralelizada em threads diferentes).
 
 ### Projeto de Federated Learning com Redes Neurais:
-- **:**
-- **:**
-- **:**
+- **Linguagem Utilizadas:** Python.
+- **Criação das Redes Neurais:** Pytorch.
+- **Comunicação entre os Clientes e Criação do Modelo Global:** Flower.
+- **Formatação de Dados:** Pandas.
 
 ### Projeto de Decision Tree do zero e implementação de método de poda:
-- **:**
-- **:**
-- **:**
+- **Linguagem Utilizadas:** Python.
+- **Realização dos Cálculos Necessários:** Numpy .
+- **Divisão do Dataset:** sklearn train_test_split.
+- **Visualização da Progressão:** Matplotlib.
 
 ### Outras Skills:
 - **:**

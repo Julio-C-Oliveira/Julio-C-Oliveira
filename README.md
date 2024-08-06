@@ -9,16 +9,31 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-C-Oliveira&layout=compact&langs_count=16&theme=dracula"/>
 </section>
 
-## Linguagens e Habilidades
+## Linguagens e Projetos
 <div style="display: inline: block">
     <img align="center" alt="Python Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
   
-### Python 
-- **Machine Learning:** Pytorch, Flower e Sklearn.
-- **Comunicação entre Dispositivos:** gRPC.
-- **Automatização de Processos:** OS.
-- **Análise de Dados:** Matplotlib e Pandas.
+### Projeto de Federated Learning com Decision Trees:
+- **Linguagem Utilizadas:** Python 
+- **Comunicação entre os Clientes:** gRPC(google Remote Procedure Call, para a comunicação em si), pickle (conversão dos objetos para binário para viabilizar a transmissão dos dados).
+- **Criação das Decision Trees:** Sklearn.
+- **MultiThread:** Futures da biblioteca Concurrent (serve para executar o código de forma paralelizada em threads diferentes).
+
+### Projeto de Federated Learning com Redes Neurais:
+- **:**
+- **:**
+- **:**
+
+### Projeto de Decision Tree do zero e implementação de método de poda:
+- **:**
+- **:**
+- **:**
+
+### Outras Skills:
+- **:**
+- **:**
+- **:**
 
 ## Contato
 <div style="display: inline: block">

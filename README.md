@@ -39,7 +39,7 @@
 
 ## Contato
 <div style="display: inline: block">
-  <a href="www.linkedin.com/in/júlio-oliveira-b8199125a"><img align="center" alt="Linkedin Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/júlio-oliveira-b8199125a"><img align="center" alt="Linkedin Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   <img align="center" alt="Gmail Icon" height="37" width="48" src="https://github.com/Julio-C-Oliveira/Julio-C-Oliveira/assets/103333573/c1933c67-7ce8-4ef2-b6d8-1352aff72594"/>
 </div>    
           

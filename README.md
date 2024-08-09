@@ -34,6 +34,7 @@
 - **Visualização da Progressão:** Matplotlib.
 
 ### Estudando Atualmente Sobre:
+- **Machine Learning:** Pytorch.
 - **Desenvolvimento Mobile:** Android Studio e Kotlin.
 
 ## Contato

@@ -32,10 +32,8 @@
 - **Divisão do Dataset:** sklearn train_test_split.
 - **Visualização da Progressão:** Matplotlib.
 
-### Outras Skills:
-- **:**
-- **:**
-- **:**
+### Estudando Atualmente Sobre:
+- **Desenvolvimento Mobile:** Android Studio e Kotlin.
 
 ## Contato
 <div style="display: inline: block">

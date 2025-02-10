@@ -12,6 +12,7 @@
 ## Linguagens e Projetos
 <div style="display: inline: block">
     <img align="center" alt="Python Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img align="center" alt="Python Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img align="center" alt="Kotlin Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </div>
   
